@@ -1,96 +1,78 @@
 <h1 align="center">Hi 👋, I'm Sarthak Bhadiyadra</h1>
 
 <h3 align="center">
-  Software Engineer | Full Stack Developer | MERN Stack
+  Software Engineer · Full Stack Developer · MERN Stack
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Sarthak-Bhadiyadra">
-    <img src="https://komarev.com/ghpvc/?username=sarthak-bhadiyadra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://sarthak.bhadiyadra.in">
+    <img src="https://img.shields.io/badge/Portfolio-sarthak.bhadiyadra.in-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/Sarthak-Bhadiyadra?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sarthak-Bhadiyadra?label=Followers&style=flat" alt="GitHub Followers" />
+  <a href="https://linkedin.com/in/sarthakbhadiyadra">
+    <img src="https://img.shields.io/badge/LinkedIn-Sarthak%20Bhadiyadra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Sarthak-Bhadiyadra">
-    <img src="https://img.shields.io/github/stars/Sarthak-Bhadiyadra?label=Total%20Stars&style=flat" alt="GitHub Stars" />
+  <a href="mailto:bhadiyadrasarthak2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarthak-Bhadiyadra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Sarthak-Bhadiyadra?label=Followers&style=flat" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Sarthak-Bhadiyadra?label=Stars&style=flat" alt="Stars"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer** with **4+ years of experience** building scalable, production-ready web applications.
+I'm a **Full Stack Web Developer** with **4+ years of experience** building modern, scalable and production-ready web applications.
 
-- 🔭 Currently working on **AI-powered applications and full-stack products**
-- 🌱 Exploring **AI, Cloud Architecture, DevOps & React Native**
-- 💼 Experienced in **MERN, Next.js, TypeScript, PostgreSQL & AWS**
-- 🚀 Interested in building **scalable SaaS products and modern web applications**
+I enjoy turning ideas into reliable products — from designing responsive interfaces to building APIs, databases, cloud infrastructure and deployment pipelines.
+
+- 🔭 Currently working on **AI-powered and full-stack applications**
+- 🌱 Currently exploring **AI, Cloud Architecture, DevOps & React Native**
+- 💼 4+ years of professional development experience
+- ⚡ Specialized in **MERN, Next.js & TypeScript**
+- ☁️ Experienced with **AWS, Docker & Terraform**
+- 🗄️ Experienced with **MongoDB, PostgreSQL, MySQL & Redis**
 - 🤝 Open to collaborating on interesting **open-source and full-stack projects**
 - 💬 Ask me about **React, Next.js, Node.js, TypeScript, AWS & Full Stack Development**
 - 🌐 Portfolio: **[sarthak.bhadiyadra.in](https://sarthak.bhadiyadra.in)**
-- 📫 Email: **bhadiyadrasarthak2002@gmail.com**
+- 📫 Reach me at **bhadiyadrasarthak2002@gmail.com**
 
 ---
 
-## 🚀 What I Do
+# 🧰 Tech Stack
 
-```text
-Frontend       → React • Next.js • TypeScript • Tailwind CSS
-Backend        → Node.js • Express.js • REST APIs
-Databases      → MongoDB • PostgreSQL • MySQL • Redis
-Cloud          → AWS • Vercel • Supabase
-DevOps         → Docker • Terraform • CI/CD
-Architecture   → SaaS • REST APIs • Microservices • Cloud Applications
-```
+### 💻 Languages
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
-### Frontend
+### ⚛️ Frontend
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="45" height="45" alt="React Native"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="45" height="45" alt="Sass"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,redux" />
 </p>
 
-### Backend
+### 🖥️ Backend
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase" />
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,vercel,git,github" />
 </p>
 
 ---
@@ -98,32 +80,50 @@ Architecture   → SaaS • REST APIs • Microservices • Cloud Applications
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak-Bhadiyadra&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Bhadiyadra&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sarthak-Bhadiyadra&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Bhadiyadra&layout=compact&hide_border=true&langs_count=8&theme=github_dark"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarthak-Bhadiyadra&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-Bhadiyadra&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-Bhadiyadra&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Sarthak-Bhadiyadra&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarthak-Bhadiyadra&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Sarthak-Bhadiyadra&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -132,27 +132,103 @@ Architecture   → SaaS • REST APIs • Microservices • Cloud Applications
 
 <table>
 <tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI Writing Assistant</h3>
+
+<p align="center">
+  AI-powered writing assistant built to help users generate, improve and refine content.
+</p>
+
+<p align="center">
+  <strong>React · Node.js · AI</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sarthak-Bhadiyadra/ai-writing-assistant">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 Ecommerce Platform</h3>
+
+<p align="center">
+  Modern ecommerce frontend designed with a scalable architecture and responsive user experience.
+</p>
+
+<p align="center">
+  <strong>React · JavaScript · REST API</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sarthak-Bhadiyadra/ecommerce-frontend">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
 <td width="50%">
 
-### 🤖 AI Writing Assistant
+### 🌐 Web Applications
 
-AI-powered writing assistant designed to help users improve and generate content.
-
-**Tech:** React • Node.js • AI
-
-🔗 [View Project](https://github.com/Sarthak-Bhadiyadra/ai-writing-assistant)
+- SaaS Platforms
+- Admin Dashboards
+- Business Applications
+- Ecommerce Applications
+- Customer Portals
 
 </td>
 
 <td width="50%">
 
-### 🛒 Ecommerce Platform
+### ⚙️ Backend Systems
 
-Modern ecommerce frontend with a scalable architecture and responsive UI.
+- REST APIs
+- Authentication Systems
+- Payment Integrations
+- Email Systems
+- Third-party API Integrations
 
-**Tech:** React • JavaScript • REST API
+</td>
+</tr>
 
-🔗 [View Project](https://github.com/Sarthak-Bhadiyadra/ecommerce-frontend)
+<tr>
+<td width="50%">
+
+### ☁️ Cloud & Infrastructure
+
+- AWS Applications
+- Dockerized Services
+- CI/CD Pipelines
+- Cloud Deployments
+- Infrastructure as Code
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Applications
+
+- AI-powered SaaS
+- AI Assistants
+- LLM Integrations
+- AI Content Generation
+- API-based AI Applications
 
 </td>
 </tr>
@@ -160,59 +236,75 @@ Modern ecommerce frontend with a scalable architecture and responsive UI.
 
 ---
 
-## 💼 Experience & Expertise
+# 📌 Professional Expertise
 
 ```text
-✔ Full Stack Web Development
-✔ MERN Stack Development
-✔ Next.js & React Applications
-✔ REST API Development
-✔ PostgreSQL & MongoDB
-✔ AWS Cloud Services
-✔ Docker & Terraform
-✔ SaaS Application Development
-✔ Third-Party API Integrations
-✔ Authentication & Authorization
-✔ Payment Gateway Integration
-✔ Email & Notification Systems
+Frontend
+├── React
+├── Next.js
+├── TypeScript
+├── Tailwind CSS
+└── React Native
+
+Backend
+├── Node.js
+├── Express.js
+├── REST APIs
+└── Authentication & Authorization
+
+Databases
+├── PostgreSQL
+├── MongoDB
+├── MySQL
+└── Redis
+
+Cloud & DevOps
+├── AWS
+├── Docker
+├── Terraform
+├── Vercel
+└── CI/CD
+
+Architecture
+├── SaaS Applications
+├── Scalable APIs
+├── Cloud Applications
+├── Third-party Integrations
+└── Microservices
 ```
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sarthakbhadiyadra">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/__sarthak.soni__">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:bhadiyadrasarthak2002@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://sarthak.bhadiyadra.in">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
-  </a>
+
+<a href="https://linkedin.com/in/sarthakbhadiyadra">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Sarthak-Bhadiyadra">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:bhadiyadrasarthak2002@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+</p>
+
+<p align="center">
+  <b>Building products. Solving problems. Learning every day. 🚀</b>
 </p>
 
 ---
 
-## 💡 Developer Quote
-
 <p align="center">
-  <i>"First solve the problem. Then write the code."</i>
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
